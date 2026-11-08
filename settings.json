@@ -1,4 +1,8 @@
 {
+    "SSH_HOST": "",
+    "SSH_PORT": 0,
+    "SSH_USER": "",
+    "SSH_PASS": "",
     "DB_HOST": "",
     "DB_USER": "",
     "DB_PASS": "",
