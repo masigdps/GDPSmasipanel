@@ -3,3 +3,8 @@ If you want to run the source code instead of the pre-built .exe file, you will 
 pip install mysql-connector-python (REQUIRED!)
 
 pip install sshtunnel (if you have SSH access)
+
+
+
+
+GDPSmasipanel
