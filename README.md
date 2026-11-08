@@ -1,9 +1,6 @@
 # GdpsMasiPanel 🛠️
 **Portable Command-Line Admin Panel for Cvolton GDPS**
 
-> ⚠️ **STATUS: WORK IN PROGRESS** / **СТАТУС: В РАЗРАБОТКЕ** ⚠️
-> The panel is currently under active development. SSH support is temporarily disabled for fixes and will be added later. / Панель находится в активной разработке. Поддержка SSH временно отключена для исправления багов и будет добавлена позже.
-
 ---
 
 ### 📖 About the Project / О проекте
