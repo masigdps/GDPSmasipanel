@@ -63,10 +63,14 @@
 
 ```json
 {
+  "SSH_HOST": "myvps.example.com",
+  "SSH_PORT": 74,
+  "SSH_USER": "root",
+  "SSH_PASS": "vfcb8gfytkm",
   "DB_HOST": "localhost",
-  "DB_USER": "gdps_user",
-  "DB_PASS": "your_database_password",
-  "DB_NAME": "gdps_database_name"
+  "DB_USER": "user",
+  "DB_PASS": "password",
+  "DB_NAME": "database_name"
 }
 ```
 3. Run the executable file and select your language.
